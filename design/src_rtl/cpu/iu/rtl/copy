@@ -1,0 +1,8 @@
+mv ./dispatcher_pa_iu_top.v    ./rv_0_pa_iu_top.v
+mv ./dispatcher_pa_iu_xocc.v   ./rv_0_pa_iu_xocc.v
+mv ./regular_0_pa_iu_top.v     ./rv_1_pa_iu_top.v
+mv ./regular_0_pa_iu_xocc.v    ./rv_1_pa_iu_xocc.v
+mv ./regular_1_pa_iu_top.v     ./rv_2_pa_iu_top.v
+mv ./regular_1_pa_iu_xocc.v    ./rv_2_pa_iu_xocc.v
+rm -rf ./regular_2_pa_iu_xocc.v
+rm -rf ./regular_2_pa_iu_top.v

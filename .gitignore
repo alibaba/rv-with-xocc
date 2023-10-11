@@ -1,0 +1,6 @@
+*.swp
+*.swo
+dv/workdir/
+*.pyc
+*.log
+dv/script/__pycache__
